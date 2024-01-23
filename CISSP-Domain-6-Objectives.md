@@ -1,6 +1,6 @@
 [Domain 6](#domain6-top) **Security Assessment and Testing**
 
-- Security assessment and testing program are an important mechanism for validating the on-going effectiveness of security controls
+- Security assessment and testing programs are an important mechanism for validating the on-going effectiveness of security controls
     - they include a variety of tools, such as vulnerability assessments, penetration tests, software testing, audits, and other control validation
 - Every org should have a security assessment and testing program defined and operational
 - **Security assessments**: comprehensive reviews of the security of a system, application, or other tested environment
