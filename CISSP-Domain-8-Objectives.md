@@ -1,6 +1,6 @@
 [Domain 8](#domain8-top) **Software Development Security**
 
-[8.1](#8.1) Understand and integrate security in the Software Develoment Life Cycle (SDLC)
+[8.1](#8.1) **Understand and integrate security in the Software Develoment Life Cycle (SDLC)**
 
 Here's a concise summary of key points related to integrating security into the Software Development Life Cycle (SDLC):
 
