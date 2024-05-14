@@ -1,5 +1,7 @@
 [Domain 8](#domain8-top) **Software Development Security**
 
+Domain 8 covers how security professionals can work to enforce sound security practices on software systems. The purpose of software development security is to ensure that security is built into applications early in the development lifecycles and that security-informed methodologies are used.
+
 [8.1](#8.1) **Understand and integrate security in the Software Develoment Life Cycle (SDLC)**
 
 Here's a concise summary of key points related to integrating security into the Software Development Life Cycle (SDLC):
